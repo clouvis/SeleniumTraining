@@ -1,0 +1,25 @@
+{
+	"homeownersDetails" : [
+		{
+			"policyType": "Dwelling",
+			"coverageForm": "HO2",
+			"occupant" : "Myself",
+			"occupyFullTime" : "Yes",
+			"fireProtection" : "Standard",
+			"inputYearBuilt" : "2015",
+			"construction" : "Concrete",
+			"numOfStories" : "2",
+			"garage" : "Attached Garage - 1 Car",
+			"roof" : "Composite",
+			"foundation" : "Slab",
+			"primaryHeating" : "Electricity",
+			"secondaryHeating" : "Gas",
+			"plumbing" : "PVC",
+			"wiring" : "Copper",
+			"electricalSystem" : "Circuit Breaker"
+			
+
+		}
+		
+	]
+}
